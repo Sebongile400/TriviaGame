@@ -1,0 +1,5 @@
+/* style.css */
+.button.next {
+    -fx-background-color: red;
+    -fx-border-radius: 50px;
+}
